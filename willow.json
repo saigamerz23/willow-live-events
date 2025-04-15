@@ -1,60 +1,8 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:55:19 PM 15-04-2025",
+    "last update time": "12:55:26 AM 16-04-2025",
     "matches": [
-        {
-            "titleId": "amzn1.dv.gti.d8c065ed-419b-41ef-b196-e42d90d1a900",
-            "title": "Indian Premier League 2025 - 31st Match - Punjab Kings vs Kolkata Knight Riders",
-            "name": "Indian Premier League 2025 - 31st Match - Punjab Kings vs Kolkata Knight Riders",
-            "contentType": "event",
-            "startTime": "2025-04-15T18:25:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d8c065ed-419b-41ef-b196-e42d90d1a900/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMH5VRH5YQ2CS6F.6d5b142ca3f7424d8979167c7c4919fd.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7cqoldwqqa/out/v1/e57ae5ce43324d0b83a30562494b2968/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7cqoldwqqa/out/v1/e57ae5ce43324d0b83a30562494b2968/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a142aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/7cqoldwqqa/out/v1/e57ae5ce43324d0b83a30562494b2968/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMH5VRH5YQ2CS6F.a855077b74fc4ad19c8e81b6bc9f57c0.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/opfihqcszd/out/v1/9b1874a0c26f41d3b2cadd0c08438aea/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/opfihqcszd/out/v1/9b1874a0c26f41d3b2cadd0c08438aea/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a87aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/opfihqcszd/out/v1/9b1874a0c26f41d3b2cadd0c08438aea/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "b141d846a4f4d51663031be887e0988c:bb105cb4d42d76a9ba10e3c01109fa58"
-                ]
-            }
-        },
         {
             "titleId": "amzn1.dv.gti.16a4ecc4-f82e-49c4-bd87-40d77af78678",
             "title": "Pakistan Super League 2025 - 6th Match - Karachi Kings vs Lahore Qalandars",

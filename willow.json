@@ -1,7 +1,7 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:58:18 PM 16-04-2025",
+    "last update time": "11:58:25 PM 16-04-2025",
     "matches": [
         {
             "titleId": "amzn1.dv.gti.d3832805-380f-4d15-825c-fa32fc48bc8a",
@@ -9,7 +9,7 @@
             "name": "Indian Premier League 2025 - 32nd Match - Delhi Capitals vs Rajasthan Royals",
             "contentType": "event",
             "startTime": "2025-04-16T18:39:30.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d3832805-380f-4d15-825c-fa32fc48bc8a/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d3832805-380f-4d15-825c-fa32fc48bc8a/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
             "status": "live",
             "playback_data": {
                 "urls": [

@@ -1,59 +1,6 @@
 {
     "name": "Willow by Cricbuzz Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:58:39 AM 17-04-2025",
-    "matches": [
-        {
-            "titleId": "amzn1.dv.gti.fb687e43-2a58-4ce1-b015-6f877b120ff3",
-            "title": "Pakistan Super League 2025 - 7th Match - Islamabad United vs Multan Sultans",
-            "name": "Pakistan Super League 2025 - 7th Match - Islamabad United vs Multan Sultans",
-            "contentType": "event",
-            "startTime": "2025-04-16T19:50:00.000Z",
-            "cover": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fb687e43-2a58-4ce1-b015-6f877b120ff3/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
-            "status": "live",
-            "playback_data": {
-                "urls": [
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMH3XYEODH33X3B.72c3f66e55ce4b71be456ff98098a6bf.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/hmeuo8vq5e/out/v1/06908c4f19a3437792a1e1e898b36d9f/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/hmeuo8vq5e/out/v1/06908c4f19a3437792a1e1e898b36d9f/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a157aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/hmeuo8vq5e/out/v1/06908c4f19a3437792a1e1e898b36d9f/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Cloudfront",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://ABGQJFUAAAAAAAAMH3XYEODH33X3B.a36301aef3d1478bbf6caf2643d2821c.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jhi1ldn3sc/out/v1/0d8ecc5c7579412798b562f5f6bc6e5e/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Fastly",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jhi1ldn3sc/out/v1/0d8ecc5c7579412798b562f5f6bc6e5e/cenc.mpd"
-                    },
-                    {
-                        "cdn": "Akamai",
-                        "videoCodec": "H264",
-                        "frameRate": "Standard",
-                        "url": "https://a59aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/jhi1ldn3sc/out/v1/0d8ecc5c7579412798b562f5f6bc6e5e/cenc.mpd"
-                    }
-                ],
-                "keys": [
-                    "570c4da7baaa27b6b1139279c65c6a7f:a1200a335815a4270895cf7948d50fc8"
-                ]
-            }
-        }
-    ]
+    "last update time": "02:58:46 AM 17-04-2025",
+    "matches": []
 }
